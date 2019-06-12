@@ -1,0 +1,7 @@
+pdf_download:
+  path: '/pdf-download-form'
+  defaults:
+    _form: '\Drupal\pdf_download\Form\PdfDownloadForm'
+    _title: 'Pdf download form'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,5 @@
+assets:
+  version: 1.x
+  css:
+    theme:
+      css/pdf-style.css: {}
